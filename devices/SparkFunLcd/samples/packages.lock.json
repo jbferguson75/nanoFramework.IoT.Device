@@ -4,33 +4,33 @@
     ".NETnanoFramework,Version=v1.0": {
       "nanoFramework.CoreLibrary": {
         "type": "Direct",
-        "requested": "[1.14.2, 1.14.2]",
-        "resolved": "1.14.2",
-        "contentHash": "j1mrz4mitl5LItvmHMsw1aHzCAfvTTgIkRxA0mhs5mSpctJ/BBcuNwua5j3MspfRNKreCQPy/qZy/D9ADLL/PA=="
+        "requested": "[1.17.11, 1.17.11]",
+        "resolved": "1.17.11",
+        "contentHash": "HezzAc0o2XrSGf85xSeD/6xsO6ohF9hX6/iMQ1IZS6Zw6umr4WfAN2Jv0BrPxkaYwzEegJxxZujkHoUIAqtOMw=="
       },
       "nanoFramework.Graphics.Core": {
         "type": "Direct",
-        "requested": "[1.1.37, 1.1.37]",
-        "resolved": "1.1.37",
-        "contentHash": "JSO5PU+CczzjqLZTTgdi/fx5BGtA8Z1m1RxpjxaYhLFPDPN1ATbDGwAdIUgxNeU77EAl1QRuni9lTA0OnfDrIQ=="
+        "requested": "[1.2.45, 1.2.45]",
+        "resolved": "1.2.45",
+        "contentHash": "Lq18/cYOJnpd8dX/V6cAi9dNJ6d9vjOaUTdAJTS2iwMcUVph0SM3fTLux4wkpPXY5iheQd6VxHwqLlMRTM7mFw=="
       },
       "nanoFramework.Hardware.Esp32": {
         "type": "Direct",
-        "requested": "[1.6.3, 1.6.3]",
-        "resolved": "1.6.3",
-        "contentHash": "no0wZg56l4p36YfvgACoqgJ7W7AU28caVYTpr/cB0Sr7ByggvFc0DbwFyqAI0uJNY8DKRKFv66qXSH3t7NcQWQ=="
+        "requested": "[1.6.37, 1.6.37]",
+        "resolved": "1.6.37",
+        "contentHash": "vQ9wy4esiBGaxveLPIxwAoBXj3vB0BotHYdTJtFIfgdpkEjsD2synrcD8xTv3kCNoCdptcDO0eSabkqu5eGIAQ=="
       },
       "nanoFramework.Runtime.Events": {
         "type": "Direct",
-        "requested": "[1.11.6, 1.11.6]",
-        "resolved": "1.11.6",
-        "contentHash": "xkltRh/2xKaZ9zmPHbVr32s1k+e17AInUBhzxKKkUDicJKF39yzTShSklb1OL6DBER5z71SpkGLyl9IdMK9l6w=="
+        "requested": "[1.11.32, 1.11.32]",
+        "resolved": "1.11.32",
+        "contentHash": "NyLUIwJDlpl5VKSd+ljmdDtO2WHHBvPvruo1ccaL+hd79z+6XMYze1AccOVXKGiZenLBCwDmFHwpgIQyHkM7GA=="
       },
       "nanoFramework.System.Device.I2c": {
         "type": "Direct",
-        "requested": "[1.1.11, 1.1.11]",
-        "resolved": "1.1.11",
-        "contentHash": "zV9CfXGTzTV8C+5SSBF5w6wZK4zcZeDtgv0XtXkkCEx8Z4woICsD+9me6YQEYz6IKQKoRAw6VEaQMScqs0b0mQ=="
+        "requested": "[1.1.29, 1.1.29]",
+        "resolved": "1.1.29",
+        "contentHash": "q8duNVWeK3RCiTmTZiO1UWr7s9HMsLnKWm5utxy9OQWeQtlh00l5CoFKxjot42s1NY5zLmfq7p7oWM/fgNEtlA=="
       },
       "StyleCop.MSBuild": {
         "type": "Direct",
